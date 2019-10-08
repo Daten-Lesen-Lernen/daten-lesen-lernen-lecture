@@ -10,20 +10,23 @@ Die verschiedenen Übungen gliedern sich in
 * Übung 03: Logik, Verzweigungen und Filter
 * Übung 04: Funktionen, Bilder und Text
 
+Die für das Bearbeiten der Übungen notwendingen Daten finden sich im Ordner '''data'''.
+
 ## Fallstudien
 Aktuell gibt es drei Fallstudien zu den Themen:
 * Allgemein (Analyse von Twitter Daten von Donald Trump und Russischen Trollen)
 * Archäologie (Analyse von Funden von Tonscherben aus dem Mittelmeerraum)
 * Wirtschaft (Analyse von historischen Daten zu Produktivität und Arbeitsniederlegungen).  
 
-Jede der Fallstudien behandelt folgende Themenbereiche
-* Laden und speichern von Daten
+Jede der Fallstudien behandelt folgende Themenbereiche in teilweise etwas abweichender Reihenfolge
+* Laden und Speichern von Daten
 * Säubern von Daten
 * Visualisierung als Histogramm, Scatterplot und Zeitreihe
 * Deskriptive Statistik (Mittelwert, Varianz)
 * Inferenz (lineare Regression)
 
 Darüber hinaus wird je nach Fallstudie auf themenspezifische Anwendungen wie z.B. der Umgang mit Text (allgemeine Fallstudie) oder die Visualisierung von Daten auf Landkarten (Archäologie) eingegangen. 
+Die für die Bearbeitung der Fallstudien benötigten Daten werden im Verlauf der Übungsaufgaben aus freien Quellen heruntergeladen und lokal gespeichert. Dafür muss ein Ordner '''data''' im Dateiverzeichnis der jeweiligen Fallstudie angelegt werden.
 
 # Autor\*innen: 
 * Jana Lasser, [Zentrum für Statistik](https://www.uni-goettingen.de/de/zentrum+f%C3%BCr+statistik+%28zfs%29/54578.html) und [Max Planck Institut für Dynamik und Selbstorganisation](https://www.ds.mpg.de/) (jana.lasser@ds.mpg.de)
