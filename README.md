@@ -4,19 +4,19 @@
 ## Python Crash Kurs
 Der Python Crash Kurs dient dazu, die generellen Grundlagen des Programmierens mit Python sowie den Einsatz von Bibliotheken zum Umgang mit verschiedenen Datentypen zu erlernen. Dieser Teil des Kurses ist sehr kurz gehalten und geht nur auf Inhalte ein, die im späteren Verlauf des Kurses zum Bearbeiten der Fallstudien benötigt werden.  
 Die verschiedenen Übungen gliedern sich in
-* Übung 00: Einführung in den Umgang mit Jupyter-Notebooks
-* Übung 01: Nutzung von Python als Taschenrechner
-* Übung 02: Listen, Schleifen und Tabellen
-* Übung 03: Logik, Verzweigungen und Filter
-* Übung 04: Funktionen, Bilder und Text
+* [Übung 00](https://github.com/Daten-Lesen-Lernen/daten-lesen-lernen-lecture/tree/master/00_uebung): Einführung in den Umgang mit Jupyter-Notebooks
+* [Übung 01](https://github.com/Daten-Lesen-Lernen/daten-lesen-lernen-lecture/tree/master/01_uebung): Nutzung von Python als Taschenrechner
+* [Übung 02](https://github.com/Daten-Lesen-Lernen/daten-lesen-lernen-lecture/tree/master/02_uebung): Listen, Schleifen und Tabellen
+* [Übung 03](https://github.com/Daten-Lesen-Lernen/daten-lesen-lernen-lecture/tree/master/03_uebung): Logik, Verzweigungen und Filter
+* [Übung 04](https://github.com/Daten-Lesen-Lernen/daten-lesen-lernen-lecture/tree/master/04_uebung): Funktionen, Bilder und Text
 
-Die für das Bearbeiten der Übungen notwendingen Daten finden sich im Ordner '''data'''.
+Die für das Bearbeiten der Übungen notwendingen Daten finden sich im Ordner [data](https://github.com/Daten-Lesen-Lernen/daten-lesen-lernen-lecture/tree/master/data).
 
 ## Fallstudien
 Aktuell gibt es drei Fallstudien zu den Themen:
-* Allgemein (Analyse von Twitter Daten von Donald Trump und Russischen Trollen)
-* Archäologie (Analyse von Funden von Tonscherben aus dem Mittelmeerraum)
-* Wirtschaft (Analyse von historischen Daten zu Produktivität und Arbeitsniederlegungen).  
+* [Allgemein](https://github.com/Daten-Lesen-Lernen/daten-lesen-lernen-lecture/tree/master/case-study-allgemein) (Analyse von Twitter Daten von Donald Trump und Russischen Trollen)
+* [Archäologie](https://github.com/Daten-Lesen-Lernen/daten-lesen-lernen-lecture/tree/master/case-study-archaeologie) (Analyse von Funden von Tonscherben aus dem Mittelmeerraum)
+* [Wirtschaft](https://github.com/Daten-Lesen-Lernen/daten-lesen-lernen-lecture/tree/master/case-study-wirtschaftswissenschaften) (Analyse von historischen Daten zu Produktivität und Arbeitsniederlegungen).  
 
 Jede der Fallstudien behandelt folgende Themenbereiche in teilweise etwas abweichender Reihenfolge
 * Laden und Speichern von Daten
