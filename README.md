@@ -1,7 +1,7 @@
 # Inhalt
 Übungen zum Erlernen der Grundlagen des Umganges mit Daten in Python. Die Übungen gliedern sich in einen Python Crash Kurs (Übung 00  bis Übung 04) und darauf aufbauende Fallstudien (Übungen 05 bis 08). Um den Kurs durchzuarbeiten empfehlen wir, Übungen 00-04 zu bearbeiten und dann _eine_ der drei Fallstudien auszuwählen und zu bearbeiten.
 
-## Python Crash Kurs
+## Python Crash Kurs [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Daten-Lesen-Lernen/daten-lesen-lernen-lecture/master)
 Der Python Crash Kurs dient dazu, die generellen Grundlagen des Programmierens mit Python sowie den Einsatz von Bibliotheken zum Umgang mit verschiedenen Datentypen zu erlernen. Dieser Teil des Kurses ist sehr kurz gehalten und geht nur auf Inhalte ein, die im späteren Verlauf des Kurses zum Bearbeiten der Fallstudien benötigt werden.  
 Die verschiedenen Übungen gliedern sich in
 * [Übung 00](https://github.com/Daten-Lesen-Lernen/daten-lesen-lernen-lecture/tree/master/00_uebung): Einführung in den Umgang mit Jupyter-Notebooks
